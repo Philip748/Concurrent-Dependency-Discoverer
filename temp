@@ -1,0 +1,89 @@
+test/s_01.o: test/s_01.c i_60.h i_44.h i_46.h i_04.h i_51.h i_15.h i_33.h i_29.h i_16.h
+test/s_02.o: test/s_02.c i_02.h i_52.h i_51.h i_03.h i_41.h i_12.h i_46.h i_30.h i_07.h i_53.h i_49.h i_25.h
+test/s_03.o: test/s_03.c i_02.h i_52.h i_25.h i_53.h i_30.h i_03.h i_33.h i_49.h i_51.h i_10.h i_01.h i_46.h i_12.h i_07.h
+test/s_04.o: test/s_04.c i_07.h i_53.h i_03.h i_12.h i_52.h i_51.h i_33.h i_01.h i_10.h i_41.h i_56.h i_45.h i_20.h i_25.h i_30.h i_02.h i_44.h i_42.h i_46.h i_50.h i_49.h i_04.h i_35.h i_28.h
+test/s_05.o: test/s_05.c
+test/s_06.o: test/s_06.c i_05.h i_06.h i_33.h i_11.h i_48.h i_54.h
+test/s_07.o: test/s_07.c i_06.h i_11.h i_05.h i_48.h i_54.h
+test/s_08.o: test/s_08.c i_46.h i_04.h i_44.h
+test/s_09.o: test/s_09.c i_60.h i_44.h i_46.h i_04.h i_21.h i_51.h i_08.h i_33.h i_29.h
+test/s_10.o: test/s_10.c i_08.h i_21.h i_51.h i_44.h i_04.h i_46.h
+test/s_11.o: test/s_11.c
+test/s_12.o: test/s_12.c i_10.h i_33.h i_07.h i_53.h i_25.h
+test/s_13.o: test/s_13.c i_46.h
+test/s_14.o: test/s_14.c i_11.h i_33.h
+test/s_15.o: test/s_15.c i_12.h i_07.h i_52.h i_51.h i_33.h i_03.h i_53.h i_25.h i_02.h i_30.h i_46.h i_49.h
+test/s_16.o: test/s_16.c i_13.h i_51.h i_44.h i_60.h i_28.h i_45.h i_31.h i_04.h i_46.h i_33.h i_29.h i_56.h i_17.h
+test/s_17.o: test/s_17.c i_14.h
+test/s_18.o: test/s_18.c i_14.h i_46.h i_04.h
+test/s_19.o: test/s_19.c i_04.h i_60.h i_44.h i_46.h i_51.h i_15.h i_39.h i_18.h i_40.h i_33.h i_29.h i_16.h
+test/s_20.o: test/s_20.c i_16.h i_51.h i_39.h i_18.h i_40.h
+test/s_21.o: test/s_21.c
+test/s_22.o: test/s_22.c i_51.h i_44.h i_04.h i_46.h
+test/s_23.o: test/s_23.c i_17.h
+test/s_24.o: test/s_24.c i_18.h i_54.h
+test/s_25.o: test/s_25.c i_19.h
+test/s_26.o: test/s_26.c i_19.h i_46.h i_04.h
+test/s_27.o: test/s_27.c i_04.h i_60.h i_44.h i_46.h i_51.h i_33.h i_29.h
+test/s_28.o: test/s_28.c i_20.h i_32.h i_60.h i_44.h i_45.h i_37.h i_22.h i_50.h i_17.h i_42.h i_46.h i_54.h i_02.h i_52.h i_35.h i_55.h i_33.h i_04.h i_29.h i_56.h i_28.h i_12.h i_51.h i_07.h i_53.h i_25.h
+test/s_29.o: test/s_29.c i_04.h i_60.h i_44.h i_46.h i_33.h i_29.h
+test/s_30.o: test/s_30.c i_04.h i_60.h i_20.h i_44.h i_46.h i_32.h i_51.h i_33.h i_29.h i_42.h i_50.h i_02.h i_45.h i_55.h i_35.h i_28.h i_12.h i_56.h i_07.h i_53.h i_25.h
+test/s_31.o: test/s_31.c i_21.h
+test/s_32.o: test/s_32.c i_22.h i_55.h i_17.h i_50.h i_45.h i_60.h i_36.h i_56.h i_44.h i_46.h i_42.h i_52.h i_41.h i_13.h i_28.h i_35.h i_33.h i_04.h i_29.h i_02.h i_07.h i_31.h i_51.h i_12.h i_53.h i_25.h
+test/s_33.o: test/s_33.c
+test/s_34.o: test/s_34.c i_46.h i_04.h i_51.h
+test/s_35.o: test/s_35.c i_04.h i_60.h i_44.h i_46.h i_51.h i_23.h i_33.h i_29.h i_16.h
+test/s_36.o: test/s_36.c i_33.h i_46.h i_04.h i_51.h
+test/s_38.o: test/s_38.c i_33.h
+test/s_39.o: test/s_39.c i_24.h
+test/s_40.o: test/s_40.c i_25.h i_33.h
+test/s_41.o: test/s_41.c i_43.h i_21.h i_24.h i_46.h i_04.h
+test/s_42.o: test/s_42.c i_04.h i_60.h i_44.h i_46.h i_51.h i_26.h i_21.h i_33.h i_29.h i_27.h
+test/s_43.o: test/s_43.c i_28.h i_33.h i_60.h i_04.h i_29.h
+test/s_44.o: test/s_44.c i_31.h i_09.h i_60.h i_13.h i_17.h i_51.h i_28.h i_45.h i_44.h i_33.h i_04.h i_29.h i_56.h i_46.h
+test/s_45.o: test/s_45.c i_33.h i_32.h i_35.h i_50.h i_55.h i_51.h i_28.h i_45.h i_44.h i_46.h i_56.h i_04.h
+test/s_46.o: test/s_46.c i_33.h
+test/s_47.o: test/s_47.c i_34.h i_51.h
+test/s_48.o: test/s_48.c i_34.h i_46.h i_04.h i_51.h
+test/s_49.o: test/s_49.c i_36.h i_60.h i_28.h i_44.h i_45.h i_50.h i_55.h i_51.h i_32.h i_35.h i_33.h i_04.h i_29.h i_46.h i_56.h
+test/s_50.o: test/s_50.c i_02.h i_52.h i_25.h i_53.h i_30.h i_03.h i_33.h i_49.h i_51.h i_10.h i_01.h i_46.h i_12.h i_07.h
+test/s_51.o: test/s_51.c i_37.h i_45.h i_56.h i_60.h i_51.h i_33.h i_04.h i_29.h
+test/s_52.o: test/s_52.c i_09.h i_31.h i_38.h i_45.h i_37.h i_60.h i_17.h i_51.h i_28.h i_44.h i_56.h i_33.h i_04.h i_29.h i_46.h
+test/s_53.o: test/s_53.c i_04.h i_60.h i_44.h i_46.h i_51.h i_33.h i_29.h
+test/s_54.o: test/s_54.c i_04.h i_60.h i_44.h i_46.h i_51.h i_33.h i_29.h
+test/s_55.o: test/s_55.c i_38.h i_44.h i_04.h i_46.h
+test/s_56.o: test/s_56.c i_39.h
+test/s_57.o: test/s_57.c i_40.h
+test/s_58.o: test/s_58.c i_41.h i_53.h i_07.h i_33.h i_20.h i_50.h i_36.h i_52.h i_55.h i_56.h i_25.h i_44.h i_42.h i_46.h i_02.h i_45.h i_35.h i_28.h i_04.h i_12.h i_51.h
+test/s_59.o: test/s_59.c i_42.h i_17.h i_33.h i_46.h
+test/s_60.o: test/s_60.c i_04.h i_60.h i_44.h i_46.h i_33.h i_29.h
+test/s_61.o: test/s_61.c i_04.h i_60.h i_44.h i_46.h i_33.h i_29.h
+test/s_62.o: test/s_62.c i_04.h i_46.h
+test/s_63.o: test/s_63.c i_43.h
+test/s_64.o: test/s_64.c i_44.h i_60.h i_56.h i_45.h i_28.h i_17.h i_04.h i_46.h i_33.h i_29.h
+test/s_65.o: test/s_65.c i_04.h i_60.h i_44.h i_46.h i_33.h i_29.h
+test/s_66.o: test/s_66.c i_46.h
+test/s_67.o: test/s_67.c i_46.h
+test/s_68.o: test/s_68.c i_45.h i_60.h i_51.h i_29.h i_56.h i_33.h i_04.h
+test/s_69.o: test/s_69.c i_46.h i_47.h i_54.h i_11.h i_06.h i_05.h i_33.h i_48.h i_29.h
+test/s_70.o: test/s_70.c i_48.h i_33.h i_54.h
+test/s_71.o: test/s_71.c i_49.h i_33.h i_03.h i_07.h i_30.h i_53.h i_25.h i_02.h i_12.h i_46.h
+test/s_72.o: test/s_72.c i_04.h i_60.h i_20.h i_44.h i_32.h i_33.h i_29.h i_42.h i_46.h i_50.h i_02.h i_45.h i_55.h i_35.h i_28.h i_12.h i_56.h i_51.h i_07.h i_53.h i_25.h
+test/s_73.o: test/s_73.c
+test/s_74.o: test/s_74.c i_04.h i_60.h i_44.h i_46.h i_33.h i_29.h
+test/s_75.o: test/s_75.c i_60.h i_44.h i_46.h i_04.h i_51.h i_33.h i_29.h
+test/s_76.o: test/s_76.c i_50.h i_60.h i_56.h i_45.h i_28.h i_42.h i_46.h i_35.h i_44.h i_33.h i_04.h i_29.h i_51.h
+test/s_77.o: test/s_77.c
+test/s_78.o: test/s_78.c
+test/s_79.o: test/s_79.c i_38.h i_44.h i_04.h i_46.h
+test/s_80.o: test/s_80.c i_51.h i_33.h
+test/s_81.o: test/s_81.c i_52.h i_12.h i_02.h i_53.h i_25.h i_07.h i_33.h i_46.h
+test/s_82.o: test/s_82.c i_53.h i_33.h
+test/s_83.o: test/s_83.c i_54.h i_33.h
+test/s_84.o: test/s_84.c i_56.h
+test/s_85.o: test/s_85.c i_51.h i_44.h i_04.h i_46.h
+test/s_86.o: test/s_86.c i_04.h i_60.h i_44.h i_46.h i_51.h i_58.h i_33.h i_29.h i_59.h
+test/s_87.o: test/s_87.c i_60.h i_51.h i_45.h i_28.h i_56.h i_33.h i_04.h i_29.h
+test/l_01.o: test/l_01.l i_33.h
+test/g_01.o: test/g_01.y i_25.h i_53.h i_03.h i_07.h i_30.h i_51.h i_12.h i_52.h i_33.h i_01.h i_10.h i_41.h i_49.h i_02.h i_46.h
+test/g_02.o: test/g_02.y i_60.h i_51.h i_45.h i_28.h i_56.h i_33.h i_04.h i_29.h
